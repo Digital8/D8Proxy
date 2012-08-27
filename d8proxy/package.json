@@ -1,8 +1,0 @@
-{
-  "name": "d8proxy",
-  "version": "0.1.0",
-  "private": true,
-  "dependencies": {
-    "http-proxy": "*"
-  }
-}
